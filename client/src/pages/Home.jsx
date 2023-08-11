@@ -21,7 +21,7 @@ const Home = () => {
             <motion.div {...headTextAnimation}>
               <h1 className="head-text">
                 LET'S <br className="xl:block hidden" />
-                <span className="rainbow_gradient ">MAKE IT</span>
+                <span className="rainbow_gradient ">MAKE IT Aaa</span>
               </h1>
             </motion.div>
             <motion.div
